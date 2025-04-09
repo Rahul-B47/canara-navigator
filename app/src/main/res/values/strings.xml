@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AR Navigation</string>
+    <string name="title_activity_laucher_activiy">LaucherActiviy</string>
+    <string name="button_start">Start Navigation</string>
+    <string name="button_stop">Stop Navigation</string>
+    <string name="label_welcome">Welcome to Canara Navigator</string>
+
+</resources>

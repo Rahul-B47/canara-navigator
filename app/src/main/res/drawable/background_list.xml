@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@android:color/black"
+    >
+<!--    <item-->
+<!--        android:drawable="@drawable/canara_logo"-->
+<!--        android:duration="5000"/>-->
+    <item
+        android:drawable="@drawable/canara_college_2"
+        android:duration="5000"/>
+    <item
+        android:drawable="@drawable/canara_college_1"
+        android:duration="5000"/>
+
+</animation-list>

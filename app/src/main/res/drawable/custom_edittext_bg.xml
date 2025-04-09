@@ -1,0 +1,42 @@
+<!-- res/drawable/custom_edittext_bg.xml -->
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Focused State -->
+    <item android:state_focused="true">
+        <shape android:shape="rectangle">
+            <!-- Lighting effect background when focused -->
+            <gradient
+                android:startColor="#e3f2fd"
+                android:endColor="#bbdefb"
+                android:angle="270" />
+            <corners android:radius="15dp" />
+            <padding
+                android:left="16dp"
+                android:right="16dp"
+               android:top="16dp"
+                android:bottom="16dp" />
+            <stroke
+                android:width="2dp"
+                android:color="#42A5F5" /> <!-- Light blue border color when focused -->
+        </shape>
+    </item>
+
+    <!-- Default State -->
+    <item>
+        <shape android:shape="rectangle">
+            <!-- Gradient background -->
+            <gradient
+                android:startColor="#ffffff"
+                android:endColor="#f0f0f0"
+                android:angle="270" />
+            <corners android:radius="15dp" />
+            <padding
+                android:left="16dp"
+                android:right="16dp"
+                android:top="16dp"
+                android:bottom="16dp" />
+            <stroke
+                android:width="2dp"
+                android:color="#cccccc" /> <!-- Light gray border color for default state -->
+        </shape>
+    </item>
+</selector>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.ar.sceneform.ux:sceneform-ux:1.17.1@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/gradle-8.10.2-bin/gradle-8.10.2/caches/transforms-3/f67a2fe768e804644ffff06a110aa4c3/transformed/jetified-sceneform-ux-1.17.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Downloads/gradle-8.10.2-bin/gradle-8.10.2/caches/transforms-3/f67a2fe768e804644ffff06a110aa4c3/transformed/jetified-sceneform-ux-1.17.1/res" />
+      <root url="jar://$USER_HOME$/Downloads/gradle-8.10.2-bin/gradle-8.10.2/caches/transforms-3/f67a2fe768e804644ffff06a110aa4c3/transformed/jetified-sceneform-ux-1.17.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/Downloads/gradle-8.10.2-bin/gradle-8.10.2/caches/modules-2/files-2.1/com.google.ar.sceneform.ux/sceneform-ux/1.17.1/995ea708893ebd5b9c436fa9b311306711002e0c/sceneform-ux-1.17.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.google.ar.sceneform:filament-android:1.17.1@aar" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Downloads/gradle-8.10.2-bin/gradle-8.10.2/caches/transforms-3/e879db456ca19c740ee9977c508de771/transformed/jetified-filament-android-1.17.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/Downloads/gradle-8.10.2-bin/gradle-8.10.2/caches/transforms-3/e879db456ca19c740ee9977c508de771/transformed/jetified-filament-android-1.17.1/res" />
+      <root url="jar://$USER_HOME$/Downloads/gradle-8.10.2-bin/gradle-8.10.2/caches/transforms-3/e879db456ca19c740ee9977c508de771/transformed/jetified-filament-android-1.17.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
