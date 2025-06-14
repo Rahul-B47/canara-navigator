@@ -1,40 +1,59 @@
-# ** AR Indoor Navigation - Canara Navigator **
+# **AR Indoor Navigation - Canara Navigator**
 
 ## Table of Contents
 
-### Introduction
-### Installation
-### Usage
-### Contributors
-### License
-### Contact
+### Introduction  
+### Installation  
+### Usage  
+### Contributors  
+### License  
+### Contact  
 
-[Introduction]
+---
 
-Canara Navigator is an augmented reality (AR) based application designed for indoor navigation utilizing ARcore and Sceneform technologies.
+### Introduction  
+Canara Navigator is an augmented reality (AR) based application designed for indoor navigation utilizing ARCore and Sceneform technologies.
 
-[Installation]
+---
+
+### Installation  
 To install Canara Navigator, follow these steps:
 
-Clone the repository to your local machine.
-Build the code on your machine.
+- Clone the repository to your local machine.  
+- Build the code on your machine.
 
-[Usage]
+---
 
+### Usage  
 To use Canara Navigator, follow these steps:
 
-Launch the application.
-Tap the settings icon located at the top right corner.
-Choose "Admin Mode" from the options.
-Select the desired destination (Office, Dean's Office, Auditorium, or Canteen).
-Calibrate AR by clicking on the starting point and waiting for the "hosting" toast followed by "hosting completed".
-Mark additional anchors if necessary.
-Confirm no hosting is in progress and navigate back to the home page.
-Switch to "User Mode" from the settings.
-Select the same destination option.
-Point the camera to the starting point, calibrate AR, and click on "navigate in AR".
-Follow the previously set path to reach the destination.
-[Contributors]
+1. Launch the application.  
+2. Tap the settings icon located at the top right corner.  
+3. Choose "Admin Mode" from the options.  
+4. Select the desired destination (Office, Dean's Office, Auditorium, or Canteen).  
+5. Calibrate AR by clicking on the starting point and waiting for the "hosting" toast followed by "hosting completed".  
+6. Mark additional anchors if necessary.  
+7. Confirm no hosting is in progress and navigate back to the home page.  
+8. Switch to "User Mode" from the settings.  
+9. Select the same destination option.  
+10. Point the camera to the starting point, calibrate AR, and click on "navigate in AR".  
+11. Follow the previously set path to reach the destination.
 
-[Contact]
-For any inquiries or support, please contact [ ].
+---
+
+### Contributors  
+- Nishanth Naik
+- Rahul 
+- Rohan  
+
+
+---
+
+### License  
+This project is licensed under the MIT License.
+
+---
+
+### Contact  
+📞 +91-91084-73189  
+📧 For any inquiries or support, please contact [rahulrakeshpoojary0@gmail.com]
