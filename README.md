@@ -20,7 +20,8 @@ Canara Navigator is an augmented reality (AR) based application designed for ind
 To install Canara Navigator, follow these steps:
 
 - Clone the repository to your local machine.  
-- Build the code on your machine.
+- Build the code on your machine **or** download the latest APK directly:  
+  - 📦 **APK Download:** [Canara Navigator v1.0](https://drive.google.com/file/d/1cQBORvHyM_Jnqi8Q51wlF9MER4_Nh74y/view?usp=drivesdk)
 
 ---
 
@@ -42,10 +43,9 @@ To use Canara Navigator, follow these steps:
 ---
 
 ### Contributors  
-- Nishanth Naik
-- Rahul 
+- Nishanth Naik  
+- Rahul  
 - Rohan  
-
 
 ---
 
@@ -55,5 +55,5 @@ This project is licensed under the MIT License.
 ---
 
 ### Contact  
-📞 +91-91084-73189  
-📧 For any inquiries or support, please contact [rahulrakeshpoojary0@gmail.com]
+📞 +91‑91084‑73189  
+📧 For any inquiries or support, please contact [rahulrakeshpoojary0@gmail.com](mailto:rahulrakeshpoojary0@gmail.com)
